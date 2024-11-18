@@ -12,7 +12,7 @@ export default function Index() {
       className="bg-slate-200"
       showsHorizontalScrollIndicator={false}
     >
-      <View className="w-full" style={{marginTop: statusBarHeight +8}}>
+      <View className=" px-4"  style={{marginTop: statusBarHeight + 8}}>
         <Header />
       </View>
     </ScrollView>
