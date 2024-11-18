@@ -18,7 +18,7 @@ export function Banner() {
         </Pressable>
         <Pressable
           className="w-full h-36 md:h-60 rounded-2xl"
-          key={1}
+          key={2}
           onPress={() => console.log("CLICOU NO BANNER")}
         >
           <Image
